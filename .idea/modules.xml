@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Asal_Sayi/Asal_Sayi.iml" filepath="$PROJECT_DIR$/Asal_Sayi/Asal_Sayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaExamples.iml" filepath="$PROJECT_DIR$/.idea/JavaExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mukemmel_Sayi/Mukemmel_Sayi.iml" filepath="$PROJECT_DIR$/Mukemmel_Sayi/Mukemmel_Sayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/asalSayi/asalSayi.iml" filepath="$PROJECT_DIR$/asalSayi/asalSayi.iml" />
     </modules>
   </component>
