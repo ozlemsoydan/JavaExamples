@@ -10,6 +10,7 @@ public class Main {
                 total = total + i;
             }
         }
+
         if (total == number) {
             System.out.println(number + " mÃ¼kemmel bir sayÄ±dÄ±r.");
         } else {
