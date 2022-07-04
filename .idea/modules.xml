@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaExamples.iml" filepath="$PROJECT_DIR$/.idea/JavaExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mukemmel_Sayi/Mukemmel_Sayi.iml" filepath="$PROJECT_DIR$/Mukemmel_Sayi/Mukemmel_Sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiBulma/SayiBulma.iml" filepath="$PROJECT_DIR$/SayiBulma/SayiBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/asalSayi/asalSayi.iml" filepath="$PROJECT_DIR$/asalSayi/asalSayi.iml" />
     </modules>
   </component>
