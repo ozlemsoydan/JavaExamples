@@ -1,7 +1,9 @@
 public class Main {
     public static void main(String[] args) {
+        findNumber();
+    }
 
-
+    public static void findNumber(){
         int [] sayilar=new int[]{1,3,4,6,9,0};
         int wanted=5;
         boolean isThere=false;
