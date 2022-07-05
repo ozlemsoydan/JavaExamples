@@ -1,4 +1,17 @@
 public class Product {
+
+    //constructor kullanıldığında
+    //new lediğinde bu değerleri vermek zorundasın
+    public Product(int id, String name, String description, double price, int stockAmount){
+
+    }
+
+    //parametresiz constructor
+    public Product(){
+
+    }
+    //bir parametreli bir parametresiz constructor kullanıldığında OVERLOADİNG olur.
+
     //attribute | field
     private int id;
     private String name;
