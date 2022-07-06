@@ -10,7 +10,7 @@ public class Product {
     public Product(){
 
     }
-    //bir parametreli bir parametresiz constructor kullanıldığında OVERLOADİNG olur.
+    //aynı isimli birden fazla method kullanıldığında OVERLOADİNG olur.
 
     //attribute | field
     private int id;
