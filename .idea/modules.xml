@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/asalSayi/asalSayi.iml" filepath="$PROJECT_DIR$/asalSayi/asalSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/classesWithAttribute/classesWithAttribute.iml" filepath="$PROJECT_DIR$/classesWithAttribute/classesWithAttribute.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
     </modules>
   </component>
 </project>
